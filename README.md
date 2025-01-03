@@ -1,8 +1,12 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Strahil Hristov
+=======================================================================================================================================
 
+Website developer with HTML5, CSS3, JS and study Pyhon!
+-------------------------------------------------------
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+* 🌍  I'm based in Montana, Bulgaria
+* ✉️  You can contact me at strahil2798@outllok.com or strahil1998@abv.bg
+* 🧠  I'm learning Python, JavaScript
 
 
 ## 🌐 Socials:
